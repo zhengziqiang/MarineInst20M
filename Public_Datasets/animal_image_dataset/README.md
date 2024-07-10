@@ -4,4 +4,4 @@ Images could be downloaded at: [selected animal images](https://www.dropbox.com/
 
 We do not have the copyright of these images. If the images violated the copyright issue, we would remove the images immediately.
 
-The annotations of the images are included in the json.zip.
+The annotations of the images are included in the animal_image_dataset.zip.
