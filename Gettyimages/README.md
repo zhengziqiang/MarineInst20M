@@ -3,13 +3,19 @@
 We provide both the human-annotated and model-generated annotations for the images from the [Gettyimages website](https://www.gettyimages.com/).
 
 ## The directory structure of Flickr should be this:
+```
 ├──Shutterstock
    ├── human-annotated 
-       ├── [gettyimages_images.zip]() 
-       └── [gettyimages_jsons.zip]()
+       ├── gettyimages_images.zip
+       └── gettyimages_jsons.zip
    ├── model-generated
-       ├── [gettyimages.json](https://www.dropbox.com/scl/fi/v4ffjl0x7wg14rgswr4qi/gettyimages.json?rlkey=sxscctvhw44cx2uf1kgp2kbq7&st=nfksm6s6&dl=0)
-       └── [Coming soon]()
+       ├── gettyimages.json
+       └── Coming soon
+```
+
+* [gettyimages_images.zip](https://www.dropbox.com/scl/fi/iza4x1rwtqiaeb2wiiefo/gettyimages_images.zip?rlkey=edcv3xa777me2xw8o7p5a195n&st=vo6057lj&dl=0) 
+* [gettyimages_jsons.zip](https://www.dropbox.com/scl/fi/tsurmitrekfl1tdlgu661/gettyimages_jsons.zip?rlkey=dognb07qaetffc681zqklnp2a&st=lee4orof&dl=0)
+* [gettyimages.json](https://www.dropbox.com/scl/fi/v4ffjl0x7wg14rgswr4qi/gettyimages.json?rlkey=sxscctvhw44cx2uf1kgp2kbq7&st=nfksm6s6&dl=0)
 
 ## Human-annotated	
 You should download the images and jsons for the `human-annotated` part based on the provided Dropbox link. All the mask annotations are included in `gettyimages_jsons.zip`. We do not have the copyright of these images. If the images violated the copyright issue, we would remove the images immediately.
