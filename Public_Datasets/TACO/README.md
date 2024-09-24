@@ -9,11 +9,11 @@ The annotations of the images are included in the `taco.zip`.
 If you find the data are useful in your research, please consider citing:
 
 ```bibtex
-@inproceedings{sun2023ioc,
-    title={Indiscernible Object Counting in Underwater Scenes},
-    author={Sun, Guolei and An, Zhaochong and Liu, Yun and Liu, Ce and Sakaridis, Christos and Fan, Deng-Ping and Van Gool, Luc},
-    booktitle={IEEE/CVF International Conference on Computer Vision and Patern Recognition (CVPR)},
-    year={2023}
+@article{taco2020,
+title={TACO: Trash Annotations in Context for Litter Detection},
+author={Pedro F Proença and Pedro Simões},
+journal={arXiv preprint arXiv:2003.06975},
+year={2020}
 }
 @article{ziqiang2024marineinst,
   title={MarineInst: A Foundation Model for Marine Image Analysis with Instance Visual Description},
